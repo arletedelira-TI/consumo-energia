@@ -103,8 +103,6 @@ Este projeto foi criado para desenvolver habilidades em:
 
 ## 📸 🖼 Preview
 
-Adicione uma imagem em `assets/`:
-
 ```markdown id="5x2i6a"
 ![Preview](assets/icon.png)
 ```
