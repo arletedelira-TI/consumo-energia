@@ -101,14 +101,6 @@ Este projeto foi criado para desenvolver habilidades em:
 
 ---
 
-## 📸 🖼 Preview
-
-```markdown id="5x2i6a"
-![Preview](assets/icon.png)
-```
-
----
-
 ## 📄 📌 Licença
 
 Distribuído sob licença MIT ✔️
@@ -117,5 +109,5 @@ Distribuído sob licença MIT ✔️
 
 ## ✨ 🚀 Autor
 
-Desenvolvido por Arlete de Lira
+Desenvolvido por Arlete de Lira | 
 Projeto de aprendizado em programação 👩‍💻
